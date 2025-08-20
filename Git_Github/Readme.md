@@ -35,8 +35,8 @@ git config --global user.email
 
 ## Terminal Session Example
 
-![Terminal Session](terminal-screenshot.png)
+<img width="917" height="408" alt="Screenshot 2025-08-20 114305" src="https://github.com/user-attachments/assets/100bbb15-cf0a-42d1-81ec-dfaf3b30905b" />
 
 ## Git Architecture
 
-![Git Architecture](git-architecture-diagram.png)
+<img width="706" height="395" alt="Screenshot 2025-08-20 114404" src="https://github.com/user-attachments/assets/4267b999-f7a8-4e8a-bfb5-e9b685c5c5c5" />
